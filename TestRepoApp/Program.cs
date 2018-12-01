@@ -10,6 +10,7 @@ namespace TestRepoApp
     {
         static void Main(string[] args)
         {
+            Console.Out.Write("Hi");
         }
     }
 }
