@@ -11,7 +11,7 @@ namespace TestRepoApp
         public ImportantClass()
         {
             //The constructor
-            Console.Write("ImportantClass instance created");
+            Console.Write("This is an important fix");
         }
     }
 }
