@@ -10,7 +10,7 @@ namespace TestRepoApp
     {
         static void Main(string[] args)
         {
-            Console.Out.Write("Hi");
+            Console.Out.Write("Hi - From Branch 1");
         }
     }
 }
