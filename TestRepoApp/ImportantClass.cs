@@ -8,5 +8,9 @@ namespace TestRepoApp
 {
     public class ImportantClass
     {
+        public ImportantClass()
+        {
+            //The constructor
+        }
     }
 }
